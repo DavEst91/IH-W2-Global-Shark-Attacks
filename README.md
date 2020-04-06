@@ -23,4 +23,10 @@ Our objetive is to clean the dataset until we have a database we can work with a
 
 2. Looking for duplicated values: some columns have duplicated information, or really similar information. We drop it once we determine which column is more appropiated. Also we drop columns that have not usefull data for de hypothesis we have planteated.
 
-3. Consistency of the data (Here comes the big prize!): We have 
+3. Consistency of the data (Here comes the big prize!): We have to check if after getting rid of "nodata" data, the data we get is useful for an analysys. We proceed column by column, checking quality of data, fixing them when possible and dropping them when not possible.
+
+4 Exporting data
+
+### Data Analysis
+
+
