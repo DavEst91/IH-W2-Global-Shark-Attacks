@@ -17,4 +17,10 @@ Our objetive is to clean the dataset until we have a database we can work with a
 
 ## Methodology
 
-###Data cleaning
+### Data cleaning
+
+1. Looking for NaN values: Raw dataset contents many rows an columns which are filled with NaN values. In order to improve the quality of the dataset we get rid of it by using de drop and dropna methods of pandas dataframe once we are sure no important information will be lose.
+
+2. Looking for duplicated values: some columns have duplicated information, or really similar information. We drop it once we determine which column is more appropiated. Also we drop columns that have not usefull data for de hypothesis we have planteated.
+
+3. Consistency of the data (Here comes the big prize!): We have 
