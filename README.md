@@ -12,8 +12,8 @@ We were provided with a raw dataset from the web Kaggle about shark attacks regi
 Our objective is to clean the dataset until we have a database we can work with and contrast the next three hypotheses:
 
 1. Most of the provoked shark attacks are provoked by Americans.
-2. Distribution of shark attacks is correlated with the age of the victims
-3. Shark attacks ocurr mainly in the afternoon
+2. Distribution of shark attacks is correlated with the age of the victims.
+3. Shark attacks ocurr mainly in the afternoon.
 
 ## Methodology: Data cleaning
 
@@ -23,7 +23,7 @@ Our objective is to clean the dataset until we have a database we can work with 
 
 3. Consistency of the data (Here comes the big prize!): We have to check if after getting rid of "no data" data, the data we get is useful for an analysis. We proceed column by column, checking the quality of data, fixing them when possible and dropping them when not possible.
 
-4 Exporting data
+4. Exporting data.
 
 ## Data Analysis: results
 
