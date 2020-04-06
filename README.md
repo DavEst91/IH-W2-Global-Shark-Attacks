@@ -1,4 +1,7 @@
-![alt text](https://i.pinimg.com/236x/9c/d7/2c/9cd72caaa4dde095f767da09387d6f3c--animal-captions-animal-memes.jpg)
+
+<p align="center">
+  <img width="460" height="300" src="https://i.pinimg.com/236x/9c/d7/2c/9cd72caaa4dde095f767da09387d6f3c--animal-captions-animal-memes.jpg">
+</p>
 
 # W2-Global-Shark-Attacks
 IH: W2 Project - Data cleaning &amp; wrangling
