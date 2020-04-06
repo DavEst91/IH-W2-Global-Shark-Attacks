@@ -15,9 +15,7 @@ Our objective is to clean the dataset until we have a database we can work with 
 2. Distribution of shark attacks is correlated with the age of the victims
 3. Shark attacks ocurr mainly in the afternoon
 
-## Methodology
-
-### Data cleaning
+## Methodology: Data cleaning
 
 1. Looking for NaN values: Raw dataset contents many rows an columns which are filled with NaN values. In order to improve the quality of the dataset we get rid of it by using the drop and dropna methods of pandas dataframe once we are sure no important information will be lose.
 
@@ -27,7 +25,7 @@ Our objective is to clean the dataset until we have a database we can work with 
 
 4 Exporting data
 
-### Data Analysis
+## Data Analysis: results
 
 1. Most of the provoked shark attacks are provoked by American: We contrast the number of provoked shark attacks with the number of total attacks by countries. It comes to English been the nationality with a bigger proportion of provoked shark attacks.
 
